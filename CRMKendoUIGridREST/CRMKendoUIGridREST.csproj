@@ -73,7 +73,6 @@
     <Content Include="css\kendo.default.min.css" />
     <Content Include="css\Xrm.KendoUIGridREST.css" />
     <Content Include="scripts\jquery1.11.1.min.js" />
-    <Content Include="scripts\kendo.all.min.js" />
     <Content Include="scripts\Xrm.KendoUIGridREST.js" />
     <Content Include="Web.config" />
     <Content Include="Xrm.KendoUIGridREST.html" />
